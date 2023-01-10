@@ -21,5 +21,5 @@ Java, Python, SQL
 ![My language](https://github-readme-stats.vercel.app/api/top-langs/?username=endspigel&layout=compact&theme=jolly&langs_count=100&hide_border=true)
 
 
-![Gamingdy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=endspigel&theme=jolly&hide_border=true&v=2&&langs_count=10&custom_title=Coding%20Stats)
+![endspigel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=endspigel&theme=jolly&hide_border=true&v=2&&langs_count=10&custom_title=Coding%20Stats)
 
