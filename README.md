@@ -7,5 +7,5 @@
 * 🏡 [Gestion Locative](https://www.truc.fr/)
 
 <a href="https://github.com/endspiegel">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeikoStream&theme=codeSTACKr&show_icons=true" alt="endspiegel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=endspiegel&theme=codeSTACKr&show_icons=true" alt="endspiegel's GitHub Stats" />
 </a>
