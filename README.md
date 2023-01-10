@@ -6,6 +6,6 @@
 ## My projects
 * 🏡 [Gestion Locative](https://www.truc.fr/)
 
-<a href="https://github.com/endspiegel">
-  <img src="https://github-readme-stats.vercel.app/api?username=endspiegel&theme=codeSTACKr&show_icons=true" alt="endspiegel's GitHub Stats" />
+<a href="https://github.com/endspigel">
+  <img src="https://github-readme-stats.vercel.app/api?username=endspigel&theme=codeSTACKr&show_icons=true" alt="endspigel's GitHub Stats" />
 </a>
